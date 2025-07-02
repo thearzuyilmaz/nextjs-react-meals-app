@@ -7,13 +7,13 @@ A modern food sharing platform built with Next.js 15 & React 19 where food lover
 ## 📸 Screenshots
 
 ### Meals Grid
-![Meals Grid](public/meals.png)
+![Meals Grid](public/app-screens-meals.png)
 
 ### Share Meal via Form
-![Share Meal](public/app-secreens/share-meal.png)
+![Share Meal](public/app-screens/share-meal.png)
 
 ### A Simple Home Page 
-![Homa Page](public/app-secreens/meals-home.png)
+![Homa Page](public/app-screens/meals-home.png)
 
 
 
